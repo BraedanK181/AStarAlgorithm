@@ -1,5 +1,8 @@
 # AStarAlgorithm
 
+This program will find the shortest past between two stars using the A* path finding algorithm. It will present you with a
+graphical illustration of the path once it has been found. 
+
 When running the java executable, make sure you pass the following arguments:
 
 1. The name of the galaxy file you want to search through
